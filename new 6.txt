@@ -1,0 +1,7 @@
+1.download https://desktop.github.com/ and install
+2. Run and setup a new account (you can login on github.com with same credentials)
+3. Watch the tutorial or skip it
+4. Open Unity and do the following:
+   -Enable Visible Meta files in Edit->Project Settings->Editor
+   -Switch to Force Text in Editor → Project Settings → Editor → Asset Serialization Mode
+5. Save unity project and close unity
