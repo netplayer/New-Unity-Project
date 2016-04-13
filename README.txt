@@ -20,7 +20,7 @@ If for any reason local repo is deleted you have them inline and you can also ch
 You can see my unity projet's repo at https://github.com/netplayer/New-Unity-Project. Actually you can fork a branch through github desktop or just download all the files zipped from the site. To fork it, first fork it on the site, so it will appear in your repos and then with Github desktop  on the left menu clicking Clone you get it on your pc as a github clone which you can update later same way.
 
 We can work on same repo if the you make a pull request to the original owner so commits will be made also on original files (owner will be able to accept or reject commits after reviewing them).
-You can find this document on the above repo as new6.txt  
+You can find this document on the above repo as README.txt  
 
 
 For packaging Unity project:
